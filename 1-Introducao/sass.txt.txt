@@ -1,0 +1,9 @@
+Sass é um pré-processador do css.
+
+
+Sass é uma extensão de CSS que adiciona poder e elegância ao CSS básico, 
+essa que é uma Gem do Ruby, ou seja, uma biblioteca escrita em linguagem Ruby. Esse pré-processador,
+ como dito anteriormente, 
+permite que você use variáveis, regras aninhadas, mixins, importações e mais!
+
+Podemos declarar uma variável  e poder usar ela em todo css. 

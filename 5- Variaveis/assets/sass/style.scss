@@ -1,0 +1,15 @@
+$cor-fundo:blue;
+$cor-fonte:red;
+$borda-padrao:2px;
+
+body{
+    background-color:cor-fundo;
+    color: $cor-fonte;
+}
+
+
+.quadrado{
+    width:200px;
+    height: 200px;
+    border:$borda-padrao solid green ;
+}

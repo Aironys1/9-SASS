@@ -1,0 +1,46 @@
+nav {
+    background-color: rgb(24, 12, 138);
+    height: 200px;
+
+
+    ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        gap: 20px;
+        justify-content: space-between;
+        padding: 70px;
+    }
+
+
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    background-color: brown;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+
+li {
+    display: inline-block;
+    background-color: rgb(230, 115, 115);
+    padding: 20px;
+    border-radius: 20px;
+
+    a {
+        color: rgb(255, 255, 255);
+        text-decoration: none;
+        font-size: 30px;
+
+    }
+}
+
+
+
+/*Comando para entrar no sass e sair no css*/
+
+/*sass --watch assets/sass:assets/css --no-source-map --style compressed*/

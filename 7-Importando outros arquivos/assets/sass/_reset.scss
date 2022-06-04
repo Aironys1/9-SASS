@@ -1,0 +1,21 @@
+body{
+    font-family:Arial;
+    font-size:14px;
+    background-color:rgb(150,100,169);
+}
+
+nav{
+    
+    background-image: url('../img/fundo.jpg');
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+
+    a:hover{
+        color: black;
+        transition: all 0.5s;
+    }
+}
+

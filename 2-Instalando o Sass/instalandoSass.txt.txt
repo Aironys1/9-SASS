@@ -1,0 +1,8 @@
+link para a instalação - Windows:  dart-sass-1.49.11-windows-x64.zip
+
+Install Anywhere (Standalone)
+You can install Sass on Windows, Mac, or Linux by downloading the package for your operating system from GitHub and adding it to your PATH. That’s all—there are no external dependencies and nothing else you need to install.
+Install Anywhere (npm)
+If you use Node.js, you can also install Sass using npm by running
+
+npm install -g sass
